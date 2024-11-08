@@ -1,0 +1,6 @@
+/renpy/
+*.rpyc
+*.rpyb
+*.save
+/cache/
+/log.txt
