@@ -1,6 +1,10 @@
-/renpy/
 *.rpyc
 *.rpyb
+*.log
 *.save
+config.log
+log.txt
 /cache/
-/log.txt
+/renpy/
+/saves/
+game/images/.DS_Store

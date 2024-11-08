@@ -10,7 +10,7 @@ init offset = -2
 ## значениям, и задать высоту и ширину окна игры.
 init python:
     gui.init(1920, 1080)
-
+    #gui.init(1120, 1120)
 ## Включить проверку на недопустимые или нестабильные свойства в экранах или
 ## преобразованиях
 define config.check_conflicting_properties = True
